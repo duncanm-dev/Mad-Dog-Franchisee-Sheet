@@ -15,3 +15,10 @@
 * Modifed how Staff members are added to include their relevant column ID immediately - this should result in more responsive Note updates as well.
 * Added a version number to the top of the Sync sheet in order to keep tabs on the most recent sheet.
 * Added some protected ranges to the Dogs sheet.
+
+## Version 1.0.1 - 19/08/2022
+
+### Major Changes
+
+* Added rollback code to nearly all sheets, copying data from a template when destructive edits are made.
+* Added some protected ranges.
