@@ -22,3 +22,4 @@
 
 * Added rollback code to nearly all sheets, copying data from a template when destructive edits are made.
 * Added some protected ranges.
+* Unlisted: multiple changes to the Sync/Staff UIs.
