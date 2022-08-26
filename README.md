@@ -1,5 +1,17 @@
 # Changelog
 
+
+## Version 1.1.1 - 26/08/2022
+
+### Bugfixes
+
+* Fixed an issue where the Dog Form failed to push TRUE/FALSE values to the Dogs sheet.
+* Fixed an issue where editing row 7 in the "Parks" tab would attempt to submit the **Add Dogs** form.
+
+### Minor Changes
+
+* Added 150 additional rows to the Staff Planner sheet to allow for more listings.
+
 ## Version 1.1.0 - 25/08/2022
 
 ### Bugfixes
