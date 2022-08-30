@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.1.1b - 30/08/2022
+
+* Hotfix for incorrect Early Walk OK form behaviour.
+* Modified formatting for the template Day Planner columns.
 
 ## Version 1.1.1 - 26/08/2022
 
