@@ -1,5 +1,14 @@
 # Changelog
 
+## Version 1.2.0 - 16/08/2023
+
+* Add more protected cells.
+* Improve formatting repropagation behaviour on changes occurring.
+* Display which dogs have been dragged into the Staff Planner with a "strikethrough" effect.
+* Display a modifiable **Walk Date** section that propagates across all Staff sheets, to indicate the date of the organised walks.
+* Improve colour scheme on individual staff sheets.
+* Fix a bug where the "Reset" button on individual staff sheets would sometimes only partially reset data.
+
 ## Version 1.1.1b - 30/08/2022
 
 * Hotfix for incorrect Early Walk OK form behaviour.
