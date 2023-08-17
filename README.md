@@ -1,5 +1,11 @@
 # Changelog
 
+## Version 1.2.1 - 17/08/2023
+
+* Allow Franchisees to drag dogs into the left column. It will reconstruct itself (and any of the formatting), so they can safely drag them to that column to remove them from the right side.
+* Walk Date now has the day ("Thursday" etc) displayed on Staff Sheets and the Planner Sheet.
+* Added **automatic back-ups** for all Staff Spreadsheets.
+
 ## Version 1.2.0 - 16/08/2023
 
 * Add more protected cells.
