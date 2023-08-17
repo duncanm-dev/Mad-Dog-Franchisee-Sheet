@@ -3,8 +3,8 @@
 ## Version 1.2.0 - 16/08/2023
 
 * Add more protected cells.
-* Improve formatting repropagation behaviour on changes occurring.
-* Display which dogs have been dragged into the Staff Planner with a "strikethrough" effect.
+* Improve formatting repropagation behaviour on changes occurring eg. accidentally modifying or deleting certain cells.
+* Display which dogs have been dragged into the Staff Planner with a ~~strikethrough~~ effect.
 * Display a modifiable **Walk Date** section that propagates across all Staff sheets, to indicate the date of the organised walks.
 * Improve colour scheme on individual staff sheets.
 * Fix a bug where the "Reset" button on individual staff sheets would sometimes only partially reset data.
